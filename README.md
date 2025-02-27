@@ -14,7 +14,7 @@ Este é um sistema simples de gerenciamento de tarefas desenvolvido em Python. E
 ## Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+   git clone https://github.com/GabrielFSantana/task_manager.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
