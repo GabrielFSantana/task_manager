@@ -18,7 +18,7 @@ Este é um sistema simples de gerenciamento de tarefas desenvolvido em Python. E
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd gerenciador-de-tarefas
+   cd task_manager
    ```
 3. Execute o script:
    ```sh
