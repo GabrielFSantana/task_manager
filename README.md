@@ -36,6 +36,10 @@ Este é um sistema simples de gerenciamento de tarefas desenvolvido em Python. E
 
 Selecione uma opção e siga as instruções no terminal.
 
+Json exemplo:
+![image](https://github.com/user-attachments/assets/d2f43a2c-913f-4454-9273-07edf663ce00)
+
+
 ## Contribuição
 Sinta-se à vontade para abrir issues e pull requests para melhorias.
 
